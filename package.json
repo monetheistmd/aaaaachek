@@ -1,0 +1,17 @@
+{
+  "name": "moneyheist-md-react-pump",
+  "version": "1.0.0",
+  "description": "Money Heist MD | ReactList + WeitReactNow pump + Quick React sender + Channel inspector (Baileys + Mongo + Express)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "dependencies": {
+    "@whiskeysockets/baileys":"latest",
+    "express": "latest",
+    "mongodb": "latest",
+    "pino": "latest",
+    "megajs": "latest"
+  }
+}
